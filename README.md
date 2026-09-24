@@ -1,4 +1,4 @@
-# Lokaly (Frontend)
+# Lokaly <img src="public/favicon.svg" alt="Lokaly Icon" width="32" height="32" align="center" /> (Frontend)
 
 > A live social-commerce web application engineered for Indian artisans, local craftsmen, and neighborhood merchants — featuring interactive live broadcasts, video reel commerce, multilingual voice shopping, in-browser AR try-on, and hyperlocal discovery.
 
