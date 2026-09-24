@@ -1,14 +1,23 @@
-# Lokaly <img src="public/favicon.svg" alt="Lokaly Icon" width="32" height="32" align="center" /> (Frontend)
+<p align="center">
+  <img src="public/banner.png" alt="Lokaly — Shop. Connect. Grow Together." width="100%" />
+</p>
 
-> A live social-commerce web application engineered for Indian artisans, local craftsmen, and neighborhood merchants — featuring interactive live broadcasts, video reel commerce, multilingual voice shopping, in-browser AR try-on, and hyperlocal discovery.
+<h1 align="center">Lokaly (Frontend)</h1>
 
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5.4.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.10-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![WebRTC](https://img.shields.io/badge/Agora_RTC-4.24.3-099DFD?logo=webrtc&logoColor=white)](https://www.agora.io/)
-[![Socket.io](https://img.shields.io/badge/Socket.io_Client-4.7.5-010101?logo=socket.io&logoColor=white)](https://socket.io/)
-[![Transformers.js](https://img.shields.io/badge/@xenova/transformers-2.17.2-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers.js)
-[![License](https://img.shields.io/badge/License-Private-red.svg)]()
+<p align="center">
+  <strong>Shop. Connect. Grow Together.</strong><br />
+  A live social-commerce web application engineered for Indian artisans, local craftsmen, and neighborhood merchants — featuring interactive live broadcasts, video reel commerce, multilingual voice shopping, in-browser AR try-on, and hyperlocal discovery.
+</p>
+
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white" alt="React 18.3.1" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-5.4.0-646CFF?logo=vite&logoColor=white" alt="Vite 5.4.0" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-3.4.10-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS 3.4.10" /></a>
+  <a href="https://www.agora.io/"><img src="https://img.shields.io/badge/Agora_RTC-4.24.3-099DFD?logo=webrtc&logoColor=white" alt="Agora RTC 4.24.3" /></a>
+  <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.io_Client-4.7.5-010101?logo=socket.io&logoColor=white" alt="Socket.io Client 4.7.5" /></a>
+  <a href="https://huggingface.co/docs/transformers.js"><img src="https://img.shields.io/badge/@xenova/transformers-2.17.2-FFD21E?logo=huggingface&logoColor=black" alt="Transformers.js 2.17.2" /></a>
+  <img src="https://img.shields.io/badge/License-Private-red.svg" alt="License Private" />
+</p>
 
 ---
 
