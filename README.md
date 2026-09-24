@@ -42,6 +42,7 @@
 - [Getting Started](#getting-started)
 - [Build, Performance & Deployment](#build-performance--deployment)
 - [Current Engineering Status & Limitations](#current-engineering-status--limitations)
+- [Related Repository](#related-repository)
 
 ---
 
@@ -476,6 +477,12 @@ To maintain architectural transparency:
 2. **Speech Recognition Browser Support**: Voice shopping relies on the browser's native `SpeechRecognition` API. It functions optimally on Chromium-based browsers (Chrome, Edge) and newer Safari versions. On unsupported platforms, the UI displays a disabled state.
 3. **Automated Test Coverage**: The repository currently does not include automated unit (Vitest/Jest) or end-to-end (Playwright/Cypress) test suites. Tests should be prioritized for the cart calculations, checkout payment flows, and voice intent fallback states.
 4. **Local Razorpay Mock Mode**: When running against development backends without active Razorpay payment gateway credentials, the checkout flow falls back to a sandbox mock verification mode (`rp.mock = true`).
+
+---
+
+## Related Repository
+
+**Lokaly Backend**: [https://github.com/sanskarchourasiya445/Lokaly-Backend](https://github.com/sanskarchourasiya445/Lokaly-Backend) — Node.js, Express, MongoDB, Socket.IO, `@xenova/transformers`.
 
 ---
 
