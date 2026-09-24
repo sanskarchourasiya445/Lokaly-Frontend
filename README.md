@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="public/banner.png" alt="Lokaly — Shop. Connect. Grow Together." width="100%" />
+  <img src="public/banner.png" alt="Lokaly Hero Banner" width="100%" />
 </p>
 
 <h1 align="center">Lokaly (Frontend)</h1>
 
 <p align="center">
-  <strong>Shop. Connect. Grow Together.</strong><br />
-  A live social-commerce web application engineered for Indian artisans, local craftsmen, and neighborhood merchants — featuring interactive live broadcasts, video reel commerce, multilingual voice shopping, in-browser AR try-on, and hyperlocal discovery.
+  <strong>Shop. Connect. Grow Together.</strong>
+</p>
+
+<p align="center">
+  A live social-commerce platform engineered for Indian artisans, local craftsmen, and neighborhood merchants — featuring interactive live broadcasts, video reel commerce, multilingual voice shopping, in-browser AR try-on, and hyperlocal discovery.
 </p>
 
 <p align="center">
